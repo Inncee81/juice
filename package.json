@@ -1,6 +1,6 @@
 {
   "name": "@lassodatasystems/juice",
-  "version": "6.0.1",
+  "version": "6.0.2",
   "description": "Inlines css into html source",
   "bin": "bin/juice",
   "main": "index.js",
